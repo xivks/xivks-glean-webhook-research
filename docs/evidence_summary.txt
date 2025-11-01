@@ -1,0 +1,6 @@
+# Evidence summary (redacted) — xivks-glean-webhook-research
+
+2025-10-21T10:00:12Z  evidence/20251021_chat_submission.png         Chat submission that triggered fetch (redacted)
+2025-10-21T10:00:14Z  evidence/20251021_chat_response.png           Glean response screenshot showing fetch result (redacted)
+2025-10-21T10:05:28Z  evidence/20251021_webhook_request_log_redacted.png  webhook.site screenshot showing inbound POST from vendor infra
+Raw data (private): raw/20251021_webhook_request_raw.txt (kept private and provided to vendor on request)
