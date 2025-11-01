@@ -25,7 +25,7 @@ Safely evaluate whether the Glean Chat fetcher:
 ## Steps (high level)
 1. Generate a unique webhook.site URL and copy it.
 2. Submit a chat message or action that causes the app to fetch the provided URL (one message per probe).
-   - External probe: `https://webhook.site/<id>`
+   - External probe: `https://webhook.site/6c3e7e3d-19bd-48a1-b3b5-b8567d06b809`
    - Loopback probe: `http://127.0.0.1:80/`
    - Metadata probe: `http://169.254.169.254/`
 3. Record timestamps for each probe and capture webhook.site logs (if external).
